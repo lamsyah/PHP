@@ -26,7 +26,7 @@ print<<<munyul
 	</td>
 	<td>
 		<input type="text" name="nomer2" placeholder="Masukan angka!!" required>
-	<td>
+	</td>
 </tr>
 <tr>
 	<td colspan="3" align="center">
@@ -36,6 +36,8 @@ print<<<munyul
 </tr>
 </form>
 </table>
+</body>
+</html>
 munyul;
 
 if (isset($_POST['hitung'])) {
